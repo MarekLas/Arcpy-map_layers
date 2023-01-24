@@ -1,6 +1,8 @@
 # Arcpy-map_layers
 Python script for ArcGIS Pro tool - adding map layers to project.
 
+Link to the script: https://github.com/MarekLas/Arcpy-map_layers/blob/main/podkladMz_v4.py
+
 <img src=https://github.com/MarekLas/Arcpy-map_layers/blob/main/01_map_layers.png align="center" width ="55%"/> 
 
 <img src=https://github.com/MarekLas/Arcpy-map_layers/blob/main/02_map_layers.png align="center" width ="85%"/> 
